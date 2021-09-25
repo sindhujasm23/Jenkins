@@ -5,5 +5,5 @@
     <classes>
       <class name="chrome.Login"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!--- Test -->
 </suite> <!-- Suite -->
